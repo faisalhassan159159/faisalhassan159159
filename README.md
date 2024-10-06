@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faisal HASSAN</h1>
 <h3 align="center">student as self-taught</h3>
 
-<p align="left"> <img src="[https://medium.com/@adityakumdale/my-10-100-days-of-aws-a-journey-into-cloud-computing-998a0b8d45da](https://www.google.com/imgres?q=aws%20gif%20logo&imgurl=https%3A%2F%2Fres.cloudinary.com%2Fzenbusiness%2Fimage%2Fupload%2Fv1670445040%2Flogaster%2Flogaster-2020-03-amazon-gif-logo.gif&imgrefurl=https%3A%2F%2Fwww.zenbusiness.com%2Fblog%2Famazon-logo%2F&docid=CZOFCB8yOgSorM&tbnid=qfcA7iK5QjnImM&vet=12ahUKEwjhvrSL0vmIAxX1VPEDHeJJFs8QM3oECGwQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjhvrSL0vmIAxX1VPEDHeJJFs8QM3oECGwQAA)" alt="faisalhassan159159" /> </p>
+<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCRIG85Nc5xKHo110nk3vl5BKCTF1DZ1kwcQ&s" alt="faisalhassan159159" /> </p>
 
 - 🌱 I’m currently learning **DevOps**
 
